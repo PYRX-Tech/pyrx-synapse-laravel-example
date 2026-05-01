@@ -1,0 +1,9 @@
+{
+  "name": "pyrx-examples/laravel",
+  "description": "Laravel/PHP example app for the PYRX Synapse SDK",
+  "license": "MIT",
+  "require": {
+    "php": ">=8.1",
+    "pyrx/synapse": "*"
+  }
+}
